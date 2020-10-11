@@ -1,2 +1,1 @@
-# IceCreamTest
- 
+#IceCream Inc.
